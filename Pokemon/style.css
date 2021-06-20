@@ -1,0 +1,14 @@
+.card {
+    background-color: darkgray;
+    width: 150px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.header {
+    text-align: center;
+    background-color: darkgray;
+    padding: 20px;
+}
